@@ -15,7 +15,7 @@ fruit_sugar <- fruit_sugar %>% mutate(category="")
 fruit_sugar$category[(row_freshfruit+1):(row_dryfruit-1)] <- "Fresh Fruit"
 fruit_sugar$category[(row_dryfruit+1):(row_pursugars-1)] <- "Dried Fruit"
 fruit_sugar$category[(row_pursugars+1):(row_candies-1)] <- "Pure Sugar"
-fruit_sugar %>% filter(category=="Candies" & `TOT. MET. FRUCTOSE`==0) %>% mutate(`TOT. MET. FRUCTOSE`= `Total Sugars`/2)
+fruit_sugar$category[(row_candies+1):nrow(fruit_sugar)] <- "Candies"
 temp <- fruit_sugar%>% filter(category=="Candies") %>% mutate(`TOT. MET. FRUCTOSE`= if_else(`TOT. MET. FRUCTOSE`>`Total Sugars`/2, `TOT. MET. FRUCTOSE`,`Total Sugars`/2))
 fruit_sugar[(row_candies+1):nrow(fruit_sugar),] <-temp
 
