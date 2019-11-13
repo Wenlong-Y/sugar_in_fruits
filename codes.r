@@ -1,0 +1,13 @@
+library(rvest)
+library(tidyverse)
+url <- "https://thepaleodiet.com/fruits-and-sugars/amp/"
+htmlsource <- read_html(url)
+nodes <- html_nodes(htmlsource, "table")
+fruit_sugar <- html_table(nodes[[1]])
+fruit_sugar %>% mutate(.,is.na(.)==0)
+write.csv(fruit_sugar,"Fruit_sugar_raw.csv")
+final_table <- fruit_sugar %>% mutate(Sugar_Percentage = `Total Sugars`/100, fructose_Percentage = FRUCTOSE/100, fructose_per_sugar=FRUCTOSE/`Total Sugars`)
+final_table <- na.omit(final_table)
+write.csv(final_table,"fruit_candy_sugar.csv")
+report_table <- final_table %>% select(Names,Sugar_Percentage,fructose_per_sugar,fructose_Percentage)
+write.csv(report_table,"report.csv")
