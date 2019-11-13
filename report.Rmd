@@ -2,7 +2,7 @@
 title: "Sugar in Fruits and Candies"
 author: "Wenlong Yang"
 date: "11/12/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
