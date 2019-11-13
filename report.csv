@@ -1,81 +1,81 @@
-"","Names","Sugar_Percentage","fructose_per_sugar","fructose_Percentage"
-"2","Apples",0.133,0.571428571428571,0.076
-"3","Apricots",0.093,0.0752688172043011,0.007
-"4","Avocado, California",0.009,0.222222222222222,0.002
-"5","Avocado, Florida",0.009,0.222222222222222,0.002
-"6","Banana",0.156,0.173076923076923,0.027
-"7","Blackberries",0.081,0.506172839506173,0.041
-"8","Blueberries",0.073,0.493150684931507,0.036
-"9","Cantaloupe",0.087,0.206896551724138,0.018
-"10","Casaba melon",0.047,0,0
-"11","Cherries, sweet",0.146,0.424657534246575,0.062
-"12","Cherries, sour",0.081,0.407407407407407,0.033
-"13","Elderberries",0.07,0,0
-"14","Figs",0.069,0.405797101449275,0.028
-"15","Grapefruit, pink",0.062,0.193548387096774,0.012
-"16","Grapefruit, white",0.062,0.193548387096774,0.012
-"17","Grapes",0.181,0.419889502762431,0.076
-"18","Guava",0.06,0.316666666666667,0.019
-"19","Guava, strawberry",0.06,0.316666666666667,0.019
-"20","Honeydew melon",0.082,0,0
-"21","Jackfruit",0.084,0.166666666666667,0.014
-"22","Kiwi fruit",0.105,0.40952380952381,0.043
-"23","Lemon",0.025,0.32,0.008
-"24","Lime",0.004,0.5,0.002
-"25","Mamey Apple",0.065,0.569230769230769,0.037
-"26","Mango",0.148,0.195945945945946,0.029
-"27","Nectarine",0.085,0,0
-"28","Orange",0.092,0.271739130434783,0.025
-"29","Papaya",0.059,0.457627118644068,0.027
-"30","Peach",0.087,0.149425287356322,0.013
-"31","Pear",0.105,0.60952380952381,0.064
-"32","Pear, Bosc",0.105,0.60952380952381,0.064
-"33","Pear, D’Anjou",0.105,0.60952380952381,0.064
-"34","Pineapple",0.119,0.176470588235294,0.021
-"35","Plum",0.075,0.24,0.018
-"36","Pomegranate",0.101,0.465346534653465,0.047
-"37","Purple Passion Fruit or Granadilla",0.112,0.276785714285714,0.031
-"38","Raspberries",0.095,0.336842105263158,0.032
-"39","Starfruit",0.071,0.450704225352113,0.032
-"40","Strawberries",0.058,0.431034482758621,0.025
-"41","Tangerine",0.077,0,0
-"42","Tomato",0.028,0.5,0.014
-"43","Watermelon",0.09,0.366666666666667,0.033
-"45","Dates",0.642,0,0
-"46","Dried apricots",0.389,0.313624678663239,0.122
-"47","Dried figs",0.623,0.391653290529695,0.244
-"48","Dried mango",0.73,0,0
-"49","Dried papaya",0.535,0,0
-"50","Dried peaches",0.446,0.349775784753363,0.156
-"51","Dried pears",0.49,0,0
-"52","Dried prunes",0.44,0.336363636363636,0.148
-"53","Raisins",0.65,0.52,0.338
-"54","Raisins, Golden",0.706,0.525495750708215,0.371
-"55","Zante currants",0.706,0.525495750708215,0.371
-"57","Sucrose (table sugar)",0.97,0,0
-"58","Maple sugar",0.852,0.0504694835680751,0.043
-"59","Honey",0.819,0.517704517704518,0.424
-"60","High fructose corn syrup (42)",0.71,0.419718309859155,0.298
-"61","High fructose corn syrup (55)",0.77,0.550649350649351,0.424
-"62","High fructose corn syrup (90)",0.8,0.9,0.72
-"63","Molasses",0.6,0.215,0.129
-"64","Sorghum syrup",0.657,0,0
-"65","Brown sugar",0.897,0,0
-"67","M & M chocolate candy",0.647,0,0
-"68","Lifesavers",0.665,0,0
-"69","Hard candy",0.623,0,0
-"70","Bit O Honey",0.424,0.0117924528301887,0.005
-"71","Almond Joy",0.449,0,0
-"72","Baby Ruth",0.42,0,0
-"73","Butterfinger",0.488,0,0
-"74","Caramello Candy Bar",0.542,0,0
-"75","Nestles Crunch Candy Bar",0.524,0.00381679389312977,0.002
-"76","Nestles 100 Grand Candy Bar",0.635,0,0
-"77","Nestles Raisinets",0.625,0,0
-"78","Reeses Pieces",0.5,0,0
-"79","Skittles",0.764,0,0
-"80","Nestles Plain Milk Chocolate Candy Bar",0.51,0,0
-"81","Hershey’s Kisses",0.5,0,0
-"82","Sugar babies",0.729,0,0
-"83","Milk Duds",0.5,0,0
-"84","Junior Mints",0.822,0,0
+"","Names","Sugar_Percentage","Fructose_per_Sugar","Fructose_Percentage","category"
+"2","Apples",0.133,0.699248120300752,0.093,"Fresh Fruit"
+"3","Apricots",0.093,0.354838709677419,0.033,"Fresh Fruit"
+"4","Avocado, California",0.009,0.333333333333333,0.003,"Fresh Fruit"
+"5","Avocado, Florida",0.009,0.333333333333333,0.003,"Fresh Fruit"
+"6","Banana",0.156,0.384615384615385,0.06,"Fresh Fruit"
+"7","Blackberries",0.081,0.530864197530864,0.043,"Fresh Fruit"
+"8","Blueberries",0.073,0.506849315068493,0.037,"Fresh Fruit"
+"9","Cantaloupe",0.087,0.517241379310345,0.045,"Fresh Fruit"
+"10","Casaba melon",0.047,0,0,"Fresh Fruit"
+"11","Cherries, sweet",0.146,0.431506849315068,0.063,"Fresh Fruit"
+"12","Cherries, sour",0.081,0.444444444444444,0.036,"Fresh Fruit"
+"13","Elderberries",0.07,0,0,"Fresh Fruit"
+"14","Figs",0.069,0.434782608695652,0.03,"Fresh Fruit"
+"15","Grapefruit, pink",0.062,0.467741935483871,0.029,"Fresh Fruit"
+"16","Grapefruit, white",0.062,0.467741935483871,0.029,"Fresh Fruit"
+"17","Grapes",0.181,0.419889502762431,0.076,"Fresh Fruit"
+"18","Guava",0.06,0.4,0.024,"Fresh Fruit"
+"19","Guava, strawberry",0.06,0.4,0.024,"Fresh Fruit"
+"20","Honeydew melon",0.082,0,0,"Fresh Fruit"
+"21","Jackfruit",0.084,0.488095238095238,0.041,"Fresh Fruit"
+"22","Kiwi fruit",0.105,0.466666666666667,0.049,"Fresh Fruit"
+"23","Lemon",0.025,0.44,0.011,"Fresh Fruit"
+"24","Lime",0.004,0.5,0.002,"Fresh Fruit"
+"25","Mamey Apple",0.065,0.692307692307692,0.045,"Fresh Fruit"
+"26","Mango",0.148,0.533783783783784,0.079,"Fresh Fruit"
+"27","Nectarine",0.085,0.364705882352941,0.031,"Fresh Fruit"
+"28","Orange",0.092,0.5,0.046,"Fresh Fruit"
+"29","Papaya",0.059,0.610169491525424,0.036,"Fresh Fruit"
+"30","Peach",0.087,0.471264367816092,0.041,"Fresh Fruit"
+"31","Pear",0.105,0.695238095238095,0.073,"Fresh Fruit"
+"32","Pear, Bosc",0.105,0.695238095238095,0.073,"Fresh Fruit"
+"33","Pear, D’Anjou",0.105,0.695238095238095,0.073,"Fresh Fruit"
+"34","Pineapple",0.119,0.310924369747899,0.037,"Fresh Fruit"
+"35","Plum",0.075,0.44,0.033,"Fresh Fruit"
+"36","Pomegranate",0.101,0.485148514851485,0.049,"Fresh Fruit"
+"37","Purple Passion Fruit or Granadilla",0.112,0.428571428571429,0.048,"Fresh Fruit"
+"38","Raspberries",0.095,0.484210526315789,0.046,"Fresh Fruit"
+"39","Starfruit",0.071,0.507042253521127,0.036,"Fresh Fruit"
+"40","Strawberries",0.058,0.517241379310345,0.03,"Fresh Fruit"
+"41","Tangerine",0.077,0,0,"Fresh Fruit"
+"42","Tomato",0.028,0.5,0.014,"Fresh Fruit"
+"43","Watermelon",0.09,0.566666666666667,0.051,"Fresh Fruit"
+"45","Dates",0.642,0.347352024922118,0.223,"Dried Fruit"
+"46","Dried apricots",0.389,0.395886889460154,0.154,"Dried Fruit"
+"47","Dried figs",0.623,0.441412520064206,0.275,"Dried Fruit"
+"48","Dried mango",0.73,0,0,"Dried Fruit"
+"49","Dried papaya",0.535,0,0,"Dried Fruit"
+"50","Dried peaches",0.446,0.497757847533632,0.222,"Dried Fruit"
+"51","Dried pears",0.49,0,0,"Dried Fruit"
+"52","Dried prunes",0.44,0.343181818181818,0.151,"Dried Fruit"
+"53","Raisins",0.65,0.52,0.338,"Dried Fruit"
+"54","Raisins, Golden",0.706,0.531161473087819,0.375,"Dried Fruit"
+"55","Zante currants",0.706,0.531161473087819,0.375,"Dried Fruit"
+"57","Sucrose (table sugar)",0.97,0.5,0.485,"Pure Sugar"
+"58","Maple sugar",0.852,0.490610328638498,0.418,"Pure Sugar"
+"59","Honey",0.819,0.527472527472527,0.432,"Pure Sugar"
+"60","High fructose corn syrup (42)",0.71,0.419718309859155,0.298,"Pure Sugar"
+"61","High fructose corn syrup (55)",0.77,0.550649350649351,0.424,"Pure Sugar"
+"62","High fructose corn syrup (90)",0.8,0.9,0.72,"Pure Sugar"
+"63","Molasses",0.6,0.505,0.303,"Pure Sugar"
+"64","Sorghum syrup",0.657,0,0,"Pure Sugar"
+"65","Brown sugar",0.897,0.469342251950948,0.421,"Pure Sugar"
+"67","M & M chocolate candy",0.647,0.5,0.3235,"Candies"
+"68","Lifesavers",0.665,0.500751879699248,0.333,"Candies"
+"69","Hard candy",0.623,0.536115569823435,0.334,"Candies"
+"70","Bit O Honey",0.424,0.5,0.212,"Candies"
+"71","Almond Joy",0.449,0.5,0.2245,"Candies"
+"72","Baby Ruth",0.42,0.5,0.21,"Candies"
+"73","Butterfinger",0.488,0.5,0.244,"Candies"
+"74","Caramello Candy Bar",0.542,0.5,0.271,"Candies"
+"75","Nestles Crunch Candy Bar",0.524,0.5,0.262,"Candies"
+"76","Nestles 100 Grand Candy Bar",0.635,0.5,0.3175,"Candies"
+"77","Nestles Raisinets",0.625,0.5,0.3125,"Candies"
+"78","Reeses Pieces",0.5,0.5,0.25,"Candies"
+"79","Skittles",0.764,0.5,0.382,"Candies"
+"80","Nestles Plain Milk Chocolate Candy Bar",0.51,0.5,0.255,"Candies"
+"81","Hershey’s Kisses",0.5,0.5,0.25,"Candies"
+"82","Sugar babies",0.729,0.5,0.3645,"Candies"
+"83","Milk Duds",0.5,0.5,0.25,"Candies"
+"84","Junior Mints",0.822,0.5,0.411,"Candies"
