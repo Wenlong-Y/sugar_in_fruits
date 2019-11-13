@@ -60,8 +60,8 @@ write.csv(report_table,"report.csv")
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-report_table %>% ggplot(aes(Fructose_Percentage,reorder(Names,Fructose_Percentage),color=category)) + geom_point(size=1)+theme(axis.text.y=element_text(size=5), axis.title.y = element_blank())
+```{r pressure, fig.height = 12, echo=FALSE}
+report_table %>% ggplot(aes(Fructose_Percentage,reorder(Names,Fructose_Percentage),color=category)) + geom_point(size=3)+theme(axis.text.y=element_text(size=10), axis.title.y = element_blank())
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

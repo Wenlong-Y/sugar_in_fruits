@@ -29,9 +29,7 @@ This website showed the sugar content of 100 gram of fruits or candies.
 
 I analyzed the data and showed the results on a image
 
-You can also embed plots, for example:
-
 ![](report_files/figure-gfm/pressure-1.png)<!-- -->
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+(the few items on the bottom of the chart is still being worked out.
+Obviously they have more frctose than 0.)
